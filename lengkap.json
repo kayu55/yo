@@ -13,7 +13,7 @@
     "is_enterprise": false,
     "variant_name": " ",
     "option_name": " ",
-    "order": 6
+    "order": 1
   },
   {
     "family_name": "XCP VIP ",
@@ -21,7 +21,7 @@
     "is_enterprise": true,
     "variant_name": "+",
     "option_name": "",
-    "order": 4
+    "order": 1
   },
   {
     "family_name": "Biz Data+ ",
@@ -29,7 +29,7 @@
     "is_enterprise": true,
     "variant_name": "BIZ",
     "option_name": " ",
-    "order": 5
+    "order": 1
   },
   {
     "family_name": "EduCoference Rp 10",
@@ -45,7 +45,7 @@
     "is_enterprise": false,
     "variant_name": "‎ ",
     "option_name": "",
-    "order": 4
+    "order": 1
   },
   {
     "family_name": "Paket Harian Rp 0",
