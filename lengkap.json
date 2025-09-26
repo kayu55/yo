@@ -10,7 +10,7 @@
   {
     "family_name": "Mastif Bundling Setahun",
     "family_code": "6bcc96f4-f196-4e8f-969f-e45a121d21bd",
-    "is_enterprise": false,
+    "is_enterprise": true,
     "variant_name": " ",
     "option_name": " ",
     "order": 1
@@ -34,7 +34,7 @@
   {
     "family_name": "EduCoference Rp 10",
     "family_code": "fcf982c8-523b-4748-9258-5fca2c0b703d",
-    "is_enterprise": false,
+    "is_enterprise": true,
     "variant_name": "",
     "option_name": " ",
     "order": 1
@@ -42,7 +42,7 @@
   {
     "family_name": "Paket Youtube Bonus",
     "family_code": "1fe292a5-5fef-430e-917b-e0eaeeb89f93",
-    "is_enterprise": false,
+    "is_enterprise": true,
     "variant_name": "‎ ",
     "option_name": "",
     "order": 1
@@ -50,7 +50,7 @@
   {
     "family_name": "Paket Harian Rp 0",
     "family_code": "96d99f87-8963-40e4-a522-8bea86504fee"
-    "is_enterprise": false,
+    "is_enterprise": true,
     "variant_name": "",
     "option_name": "",
     "order": 1
@@ -58,7 +58,7 @@
   {
     "family_name": "XL BIZ STARTER",
     "family_code": "20342db0-e03e-4dfd-b2d0-cd315d7ddc36",
-    "is_enterprise": false,
+    "is_enterprise": true,
     "variant_name": " ",
     "option_name": " ",
     "order": 1
