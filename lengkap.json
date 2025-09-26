@@ -248,27 +248,27 @@
     "order": 1
   },
   {
-    "family_name": "BIZ Lite ",
+    "family_name": "BIZ Manufacture ",
     "family_code": "f3303d95-8454-4e80-bb25-38513d358a11",
     "is_enterprise": false,
-    "variant_name": "‎ ",
-    "option_name": " ",
+    "variant_name": "‎BIZ Manufacture",
+    "option_name": "BIZ Lite",
     "order": 1
   },
   {
-    "family_name": "BIZ STARTER 1 ",
+    "family_name": "BIZ Prepaid",
     "family_code": "20342db0-e03e-4dfd-b2d0-cd315d7ddc36",
-    "is_enterprise": false,
-    "variant_name": "",
-    "option_name": "",
+    "is_enterprise": true,
+    "variant_name": "BIZ E-Commerce",
+    "option_name": "BIZ Starter",
     "order": 1
   },
   {
-    "family_name": "BIZ STARTER 2 ",
+    "family_name": "BIZ Prepaid",
     "family_code": "ae2707e6-2996-45f8-944a-8a391e956f28",
     "is_enterprise": false,
-    "variant_name": "",
-    "option_name": "",
+    "variant_name": "BIZ Prepaid",
+    "option_name": "BIZ Starter",
     "order": 1
   },
   {
