@@ -1,6 +1,6 @@
 [
   {
-    "family_name": "Biz Data+ ",
+    "family_name": "Biz Data+",
     "family_code": "53de8ac3-521d-43f5-98ce-749ad0481709",
     "is_enterprise": true,
     "variant_name": "Biz Data+",
@@ -65,7 +65,7 @@
   },
   {
     "family_name": "BIZ Manufacture",
-    "family_code": "f3303d95-8454-4e80-bb25-38513d358a11",
+    "family_code": "53de8ac3-521d-43f5-98ce-749ad0481709",
     "is_enterprise": true,
     "variant_name": "BIZ Manufacture",
     "option_name": "BIZ Lite",
