@@ -1,10 +1,10 @@
 [
   {
-    "family_name": "Biz Data+",
-    "family_code": "53de8ac3-521d-43f5-98ce-749ad0481709",
+    "family_name": "BIZ Prepaid",
+    "family_code": "20342db0-e03e-4dfd-b2d0-cd315d7ddc36",
     "is_enterprise": true,
-    "variant_name": "Biz Data+",
-    "option_name": "Biz",
+    "variant_name": "BIZ Prepaid",
+    "option_name": "BIZ Starter",
     "order": 1
   },
   {
@@ -65,7 +65,7 @@
   },
   {
     "family_name": "BIZ Manufacture",
-    "family_code": "53de8ac3-521d-43f5-98ce-749ad0481709",
+    "family_code": "f3303d95-8454-4e80-bb25-38513d358a11",
     "is_enterprise": true,
     "variant_name": "BIZ Manufacture",
     "option_name": "BIZ Lite",
