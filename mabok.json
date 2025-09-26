@@ -1,0 +1,74 @@
+[
+  {
+    "family_name": "EduCoference Ori",
+    "family_code": "5d63dddd-4f90-4f4c-8438-2f005c20151f",
+    "is_enterprise": true,
+    "variant_name": "EduCoference",
+    "option_name": " ",
+    "order": 1
+  },
+  {
+    "family_name": "Mastif Bundling Setahun",
+    "family_code": "6bcc96f4-f196-4e8f-969f-e45a121d21bd",
+    "is_enterprise": true,
+    "variant_name": " ",
+    "option_name": " ",
+    "order": 1
+  },
+  {
+    "family_name": "XCP VIP ",
+    "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
+    "is_enterprise": true,
+    "variant_name": "+",
+    "option_name": "",
+    "order": 1
+  },
+  {
+    "family_name": "Biz Data+ ",
+    "family_code": "53de8ac3-521d-43f5-98ce-749ad0481709",
+    "is_enterprise": true,
+    "variant_name": "BIZ",
+    "option_name": " ",
+    "order": 1
+  },
+  {
+    "family_name": "EduCoference Rp 10",
+    "family_code": "fcf982c8-523b-4748-9258-5fca2c0b703d",
+    "is_enterprise": true,
+    "variant_name": "",
+    "option_name": " ",
+    "order": 1
+  },
+  {
+    "family_name": "Paket Youtube Bonus",
+    "family_code": "1fe292a5-5fef-430e-917b-e0eaeeb89f93",
+    "is_enterprise": true,
+    "variant_name": "‎ ",
+    "option_name": "",
+    "order": 1
+  },
+  {
+    "family_name": "Paket Harian Rp 0",
+    "family_code": "96d99f87-8963-40e4-a522-8bea86504fee"
+    "is_enterprise": true,
+    "variant_name": "",
+    "option_name": "",
+    "order": 1
+  },
+  {
+    "family_name": "XL BIZ STARTER",
+    "family_code": "20342db0-e03e-4dfd-b2d0-cd315d7ddc36",
+    "is_enterprise": true,
+    "variant_name": " ",
+    "option_name": " ",
+    "order": 1
+  },
+  {
+    "family_name": "BIZ LITE",
+    "family_code": "f3303d95-8454-4e80-bb25-38513d358a11",
+    "is_enterprise": true,
+    "variant_name": "",
+    "option_name": "",
+    "order": 1
+  }
+]
