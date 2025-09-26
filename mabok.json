@@ -21,7 +21,7 @@
     "is_enterprise": true,
     "variant_name": "Xcp Vip",
     "option_name": "Xcp",
-    "order": 4
+    "order": 1
   },
   {
     "family_name": "BIZ DATA",
@@ -29,7 +29,7 @@
     "is_enterprise": true,
     "variant_name": "BIZ DATA",
     "option_name": "BIZ",
-    "order": 5
+    "order": 1
   },
   {
     "family_name": "EduCoference Rp 10",
@@ -45,22 +45,22 @@
     "is_enterprise": true,
     "variant_name": "‎Paket Youtube Bonus",
     "option_name": "Paket Youtube",
-    "order": 4
+    "order": 1
   },
   {
     "family_name": "Paket Harian Rp 0",
     "family_code": "96d99f87-8963-40e4-a522-8bea86504fee",
     "is_enterprise": true,
-    "variant_name": "yes",
-    "option_name": "ah",
+    "variant_name": "Paket Harian",
+    "option_name": "Paket Harian",
     "order": 1
   },
   {
-    "family_name": "XL BIZ STARTER",
+    "family_name": "BIZ Prepaid",
     "family_code": "20342db0-e03e-4dfd-b2d0-cd315d7ddc36",
     "is_enterprise": true,
-    "variant_name": "XL BIZ STARTER",
-    "option_name": "XL BIZ",
+    "variant_name": "BIZ Prepaid",
+    "option_name": "BIZ Prepaid",
     "order": 1
   },
   {
